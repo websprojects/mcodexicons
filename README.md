@@ -22,6 +22,8 @@ and import file on your DB platfrom
 ### Final step
 When all proccess completed, just search localhost/(your folder location path where exists you project)
 
+## Snapshort
+![snap](./snap.png)
 
 ## Author
 **Modassir**
