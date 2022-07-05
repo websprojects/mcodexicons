@@ -25,8 +25,8 @@ When all proccess completed, just search localhost/(your folder location path wh
 ## Snapshort
 ![snap](./snap.png)
 
-## Author
-**Modassir**
+
+
 
 ## License
-**MIT License**
+
